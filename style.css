@@ -52,7 +52,7 @@ main{
 .text h1{
     margin-bottom: 5%;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 60px;
     color: var(--VeryDMagenta);
 }
 
