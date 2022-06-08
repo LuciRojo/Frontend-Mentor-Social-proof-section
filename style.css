@@ -52,12 +52,12 @@ main{
 .text h1{
     margin-bottom: 5%;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 50px;
     color: var(--VeryDMagenta);
 }
 
 .text p{
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1,5rem;
     color: var(--DarkGrayishMagenta);
 
