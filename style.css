@@ -46,7 +46,7 @@ main{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 98%;
+    width: 90%;
 }
 
 .text h1{
